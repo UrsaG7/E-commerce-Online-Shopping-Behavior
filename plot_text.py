@@ -1,11 +1,11 @@
 import matplotlib.pyplot as plt
 
-def get_text(ax, x_horz, y_vert):
+def get_text(ax, x_horz, y_vert, font_size):
     for p in ax.patches:
         percentage = f'{p.get_height() : .2f}%'
         x = p.get_x() + p.get_width() / x_horz
         y = p.get_y() + p.get_height() + y_vert
-        ax.annotate(percentage, (x, y), size=10, ha='center', va='center')
+        ax.annotate(percentage, (x, y), size=font_size, ha='center', va='center')
 
 
 def get_text_horz(ax, x_add, n):
