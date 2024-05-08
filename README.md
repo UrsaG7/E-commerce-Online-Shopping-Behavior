@@ -42,15 +42,11 @@ Tools needed :
 - [ ] Feedback
 - [ ] Re-tune
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
 ## Contact
 
 Muhammad Gilang Mahardika - [Linkedin_profile](https://www.linkedin.com/in/muhgilangmahardika/)
-
-Project Link: [This](github.com/UrsaG7/Rkmin_final_project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
