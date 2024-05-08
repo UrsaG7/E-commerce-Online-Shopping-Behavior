@@ -2,22 +2,21 @@
 ## About The Project
 
 Rakamin Academy Final Project
-This project is about identifying and predicting visitors that would generate revenue for an ecommerce website.
+This project is about identifying and predicting visitors that would generate revenue for an e-commerce website.
 
 What the model hope to achieve:
 * Accurately identifying which features have the biggest impact on visitor purchasing behavior.
-* Give a clear and concise insight
+* Give a clear and concise insight.
 * Provide the appropriate business recommendation based on the results of the analysis.
-* Able to adapt to new foreign data
+* Able to adapt to new foreign data.
 
 This work has been finalized, though i plan to improve on it as my understanding increase.
 
-## Plan for imrpovement
+## Plan for improvement
 * Using better method to prepare dataset.
 * Using new machine learning algorithm.
 * Reanalyze result and insight.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
