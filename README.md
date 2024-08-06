@@ -38,11 +38,11 @@ Tools needed :
 - [x] Modeling
 - [x] Evaluation
 - [x] Result and recommendations.
-- [ ] Deployment
-- [ ] Feedback
-- [ ] Re-tune
+- [x] Feedback
+- [x] Re-tune
 
-
+## The project has been completed!
+No further adjustment will be made
 
 <!-- CONTACT -->
 ## Contact
