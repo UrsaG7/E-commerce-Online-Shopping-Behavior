@@ -42,7 +42,7 @@ Tools needed :
 - [x] Re-tune
 
 ## The project has been completed!
-No further adjustment will be made. Check the report here: https://bit.ly/ecommercereport_n
+No further adjustment will be made. Check the report here: [Ecommerce_Shopping_Behavior](https://bit.ly/ecommercereport_n)
 
 <!-- CONTACT -->
 ## Contact
