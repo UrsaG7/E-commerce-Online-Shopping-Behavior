@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project based on E-commerce dataset
+Project based on E-commerce dataset.
 This project is about identifying and predicting visitors that would generate revenue for an e-commerce website.
 
 What the model hope to achieve:
