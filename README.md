@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Rakamin Academy Final Project
+Project based on E-commerce dataset.
 This project is about identifying and predicting visitors that would generate revenue for an e-commerce website.
 
 What the model hope to achieve:
@@ -38,11 +38,11 @@ Tools needed :
 - [x] Modeling
 - [x] Evaluation
 - [x] Result and recommendations.
-- [ ] Deployment
-- [ ] Feedback
-- [ ] Re-tune
+- [x] Feedback
+- [x] Re-tune
 
-
+## The project has been completed!
+No further adjustment will be made. Check the report here: [Ecommerce_Shopping_Behavior](https://bit.ly/ecommercereport_n)
 
 <!-- CONTACT -->
 ## Contact
